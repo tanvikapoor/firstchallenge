@@ -13,6 +13,8 @@
 		EF166DC11A362D7200C38925 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF166DC01A362D7200C38925 /* Images.xcassets */; };
 		EF166DC41A362D7200C38925 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF166DC21A362D7200C38925 /* LaunchScreen.xib */; };
 		EF166DD01A362D7200C38925 /* FirstChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF166DCF1A362D7200C38925 /* FirstChallengeTests.swift */; };
+		EF166DDA1A362DF000C38925 /* Christmas_generic_25_port_2.png in Resources */ = {isa = PBXBuildFile; fileRef = EF166DD91A362DF000C38925 /* Christmas_generic_25_port_2.png */; };
+		EF166DDC1A362E5200C38925 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF166DDB1A362E5200C38925 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		EF166DC91A362D7200C38925 /* FirstChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF166DCE1A362D7200C38925 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF166DCF1A362D7200C38925 /* FirstChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstChallengeTests.swift; sourceTree = "<group>"; };
+		EF166DD91A362DF000C38925 /* Christmas_generic_25_port_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Christmas_generic_25_port_2.png; sourceTree = "<group>"; };
+		EF166DDB1A362E5200C38925 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		EF166DB71A362D7200C38925 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EF166DDB1A362E5200C38925 /* AlbertEinsteinStamp.jpg */,
+				EF166DD91A362DF000C38925 /* Christmas_generic_25_port_2.png */,
 				EF166DB81A362D7200C38925 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				EF166DBF1A362D7200C38925 /* Main.storyboard in Resources */,
 				EF166DC41A362D7200C38925 /* LaunchScreen.xib in Resources */,
+				EF166DDC1A362E5200C38925 /* AlbertEinsteinStamp.jpg in Resources */,
 				EF166DC11A362D7200C38925 /* Images.xcassets in Resources */,
+				EF166DDA1A362DF000C38925 /* Christmas_generic_25_port_2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
